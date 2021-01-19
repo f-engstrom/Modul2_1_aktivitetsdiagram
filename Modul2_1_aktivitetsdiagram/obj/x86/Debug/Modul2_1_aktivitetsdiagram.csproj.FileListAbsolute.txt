@@ -1,0 +1,6 @@
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/obj/x86/Debug/Modul2_1_aktivitetsdiagram.csprojAssemblyReference.cache
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/obj/x86/Debug/Modul2_1_aktivitetsdiagram.csproj.CoreCompileInputs.cache
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/bin/Debug/Modul2_1_aktivitetsdiagram.exe
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/bin/Debug/Modul2_1_aktivitetsdiagram.pdb
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/obj/x86/Debug/Modul2_1_aktivitetsdiagram.exe
+/Users/fransengstrom/Projects/Modul2_1_aktivitetsdiagram/Modul2_1_aktivitetsdiagram/obj/x86/Debug/Modul2_1_aktivitetsdiagram.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E7C45CBC-8DCE-4835-88E3-686106716150}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Modul2_1_aktivitetsdiagram/Program.cs">
+    <Files>
+      <File FileName="Modul2_1_aktivitetsdiagram/Program.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Modul2_1_aktivitetsdiagram" expanded="True">
+            <Node name="Modul2_1_aktivitetsdiagram" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Modul2__1__aktivitetsdiagram PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
